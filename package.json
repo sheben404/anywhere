@@ -1,0 +1,25 @@
+{
+  "name": "node-anywhere",
+  "version": "1.0.0",
+  "description": "Tiny NodeJS Static Web server",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "handlebars": "^4.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheben404/anywhere.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheben404/anywhere/issues"
+  },
+  "homepage": "https://github.com/sheben404/anywhere#readme"
+}
