@@ -1,12 +1,16 @@
 {
   "name": "node-anywhere",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Tiny NodeJS Static Web server",
-  "main": "index.js",
+  "main": "src/app.js",
+  "bin": {
+    "anywhere": "bin/anywhere"
+  },
   "dependencies": {
     "chalk": "^2.1.0",
     "etag": "^1.8.1",
-    "handlebars": "^4.0.10"
+    "handlebars": "^4.0.10",
+    "yargs": "^8.0.2"
   },
   "devDependencies": {},
   "scripts": {
