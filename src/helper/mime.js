@@ -9,6 +9,7 @@ const mimeTypes = {
   'png': 'image/png',
   'txt': 'text/plain',
   'xml': 'text/xml',
+  'json':'application/json'
 }
 module.exports = (filePath)=>{
   let ext = path.extname(filePath)
