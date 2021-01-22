@@ -1,5 +1,5 @@
 {
-  "name": "node-anywhere",
+  "name": "node-anywhere-demo",
   "version": "0.1.0",
   "description": "Tiny NodeJS Static Web server",
   "main": "src/app.js",
